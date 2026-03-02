@@ -13,7 +13,7 @@
     "@thirdweb-dev/sdk": "^4.0.99",
     "dotenv": "^16.4.7",
     "lottie-react": "^2.4.0",
-    "next": "15.1.4",
+    "next": "15.5.10",
     "pino": "^9.6.0",
     "react-icons": "^5.4.0",
     "thirdweb": "^5.83.0",
